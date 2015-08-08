@@ -63,7 +63,7 @@ NOTE: This option ONLY works with -h (one hash input) option.
 `python findmyhash.py MYSQL -f mysqlhashesfile.txt`
 
 *  More examples: 
-```
+```shell
 python findmyhash.py MD4 -h "db346d691d7acc4dc2625db19f9e3f52"
 python findmyhash.py MD5 -h "098f6bcd4621d373cade4e832627b4f6"
 python findmyhash.py SHA1 -h "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3"
